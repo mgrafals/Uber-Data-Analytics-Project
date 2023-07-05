@@ -26,3 +26,5 @@ The dashboard can be viewed here - https://lookerstudio.google.com/s/sSDMuMUQWcs
 
 ![image](https://github.com/mgrafals/Uber-Data-Engineering-Project/assets/118086345/e472bdcc-17ce-47f0-8049-1b38051be5e3)
 
+## Conclusion
+We took an Uber dataset, dimensionized and transformed the data using Python code. Using a VM instance on Google Cloud, we installed the open-source data pipeline tool, MAGE, to deploy our code and load our data on Google BigQuery as a data warehouse. Finally, we created our final dashboard and presented the findings of the dataset.
