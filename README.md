@@ -9,4 +9,5 @@ This project utilizes Google Cloud Storage, MAGE Open-source data pipeline tool,
 ## Dataset
 TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
 
-The dataset used in this project can be found here -
+The dataset used in this project can be found here - https://github.com/mgrafals/Uber-Data-Engineering-Project/blob/main/uber_data.csv
+
