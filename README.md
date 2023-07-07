@@ -14,6 +14,7 @@ The dataset used in this project can be found here : https://github.com/mgrafals
 More information regarding this dataset and others can be found here :
 
 TLC Trip Record Data - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
 Data Dictionary for Trip Records - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Architecture Diagram
