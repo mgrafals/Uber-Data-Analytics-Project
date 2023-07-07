@@ -17,7 +17,7 @@ TLC Trip Record Data - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.p
 Data Dictionary for Trip Records - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Architecture Diagram
-![Data Architecture Diagram](https://github.com/mgrafals/Uber-Data-Engineering-Project/assets/118086345/38657ea8-1be0-43c8-aabd-1987e11ccfe7)
+![Data Architecture Diagram](https://github.com/mgrafals/Uber-Data-Engineering-Project/assets/118086345/b8363b71-fb28-4fab-b2d0-c68874e47285)
 
 ## Database Schema
 ![image](https://github.com/mgrafals/Uber-Data-Engineering-Project/assets/118086345/4908aced-a41d-40e3-82fc-56314f1d7507)
